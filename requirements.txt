@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
+scipy
 plotly
 openpyxl  # For Excel support
 psycopg2-binary  # PostgreSQL connector
