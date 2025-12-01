@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl  # For Excel support
+psycopg2-binary  # PostgreSQL connector
