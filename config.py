@@ -6,9 +6,9 @@
 DBCONFIG = {
     "host": "localhost",        # e.g. "localhost" or your DB server
     "port": 5432,               # default PostgreSQL port
-    "database": "data_analytics_db",  # change to your DB name
+    "database": "db",  # change to your DB name
     "user": "postgres",         # change to your DB user
-    "password": "7906258537" # change to your DB password
+    "password": "*********" # change to your DB password
 }
 
 # ========================
